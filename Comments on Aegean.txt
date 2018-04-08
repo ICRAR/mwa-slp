@@ -1,0 +1,5 @@
+The github address for Aegean is:
+
+https://github.com/PaulHancock/Aegean
+
+If you download Aegean Tools it allows for use of BANE and MIMAS, which are helpful for generating a search area within the sensitive portions of the primary beam.
